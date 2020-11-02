@@ -2,13 +2,13 @@ def add(x, y):
     return x + y
 
 
-def subtract(x, y):
+def sub(x, y):
     return x - y
 
 
-def multiply(x, y):
+def mul(x, y):
     return x * y
 
 
-def divide(x, y):
-   return x/y
+def div(x, y):
+   return x/yield
